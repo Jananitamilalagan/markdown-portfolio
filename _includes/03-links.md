@@ -1,1 +1,1 @@
-M1_Course
+[GitHub](http://github.com)
